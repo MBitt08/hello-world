@@ -1,2 +1,6 @@
-# hello-world
-Este repositório foi criado com o intuito de armazenar meus primeiros passos em programação
+# Sobre mim
+💻 Profissional iniciando na área de TI
+🐍 Aprendendo Python 
+☕ Estudos em Java
+☁️ Explorando AWS Cloud
+🚀 Em constante evolução e aprendizado
